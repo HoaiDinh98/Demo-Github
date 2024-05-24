@@ -1,2 +1,5 @@
 # Bỏ qua tất cả các tệp .php
 *.php
+
+# Bỏ qua thư mục bosanpham
+bosanpham/
